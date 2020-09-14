@@ -1,0 +1,1 @@
+module.exports.fizzbuzz = require('./fizzbuzz.controller');
